@@ -1,7 +1,7 @@
 body {
   padding: 0;
-  font-family: "Georgia" monospace;
-  font-size: 26px;
+  font-family: "Lucida Console";
+  font-size: 20px;
   line-height: 18px;
   color: #000000;
   background: #ffffff url("img/keks-background.jpg") no-repeat 50% 0;
@@ -24,6 +24,7 @@ h2 {
 }
 
 .skills-item {
+  font-family: "Georgia";
   margin-bottom: 15px;
   padding-left: 20px;
   border-left: 10px solid #c4c4c4;
@@ -41,7 +42,7 @@ h2 {
 }
 
 .container {
-  width: 480px;
+  width: 600px;
   margin: 0 auto;
 }
 
